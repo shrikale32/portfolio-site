@@ -122,6 +122,7 @@ export const skillsData = [
   "Java",
   "Django",
   "Flask",
+  "Spring Boot",
   "HTML",
   "CSS",
   "JavaScript",

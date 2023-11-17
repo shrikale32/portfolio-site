@@ -37,7 +37,7 @@ export default function About() {
 
       <p>
        My favorite part of programming is the {" "}
-       <span>s the problem-solving aspect</span>. I love the feeling of finally figuring out a solution to a problem.
+       <span>problem-solving aspect</span>. I love the feeling of finally figuring out a solution to a problem.
        I am always looking to learn new technologies. I am currently looking for a full-time position as a {" "}
        <span className="font-medium underline">Full-Stack or Backend Developer.</span>
       </p>
